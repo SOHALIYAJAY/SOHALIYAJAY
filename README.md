@@ -32,22 +32,6 @@ I'm a Computer Engineering student passionate about **Artificial Intelligence, M
 - ⚙️ Learning backend architecture, API development, databases, and deployment.
 - 🌱 Continuously learning, experimenting, and contributing to open source.
 
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SOHALIYAJAY&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub statistics">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SOHALIYAJAY&hide_border=true&theme=transparent" height="165" alt="GitHub contribution streak">
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOHALIYAJAY&layout=compact&hide_border=true&theme=transparent" height="140" alt="Most used languages">
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -79,7 +63,7 @@ An AI-powered platform that helps users discover academic literature, understand
 
 <br/><br/>
 
-<a href="YOUR_RESEARCHNOVA_REPOSITORY_URL">View Repository →</a>
+<a href="https://github.com/SOHALIYAJAY/ResearchNova-AI-Research-Assistant-Innovation-Platform.git">View Repository →</a>
 
 </td>
 <td width="50%" valign="top">
@@ -107,7 +91,7 @@ A civic-tech platform that enables citizens to report local issues, track compla
 
 <br/><br/>
 
-<a href="YOUR_CIVIC_COMPLAINT_REPOSITORY_URL">View Repository →</a>
+<a href="https://github.com/SOHALIYAJAY/Civic-Complaint-Issue-Reporting-System.git">View Repository →</a>
 
 </td>
 </tr>
@@ -175,9 +159,9 @@ A civic-tech platform that enables citizens to report local issues, track compla
   <a href="https://github.com/SOHALIYAJAY">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="www.linkedin.com/in/jay-sohaliya">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+ <a href="https://www.linkedin.com/in/jay-sohaliya/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+ </a>
   <a href="mailto:jaysohaliya5726@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>

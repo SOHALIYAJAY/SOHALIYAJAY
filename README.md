@@ -1,8 +1,8 @@
 <div align="center">
 
-# YOUR NAME
+# Jay Sohaliya
 
-### AI/ML Engineer | GenAI Developer | Full-Stack Developer
+### AI/ML | GenAI | Backend Developer
 
 Building practical AI-powered applications, intelligent RAG systems, and modern web products.
 
@@ -16,7 +16,7 @@ Building practical AI-powered applications, intelligent RAG systems, and modern 
 
 ## 👋 About Me
 
-I'm a Computer Engineering student interested in **Artificial Intelligence, Machine Learning, Generative AI, and Full-Stack Development**. I enjoy turning ideas into useful applications and exploring how modern AI systems can solve real-world problems.
+I'm a Computer Engineering student interested in **Artificial Intelligence, Machine Learning, Generative AI, and Backend Development**. I enjoy turning ideas into useful applications and exploring how modern AI systems can solve real-world problems.
 
 - 🤖 Exploring LLMs, RAG, semantic search, and AI application development.
 - 🧠 Building projects that combine machine learning with practical software engineering.

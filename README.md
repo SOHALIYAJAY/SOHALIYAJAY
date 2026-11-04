@@ -10,9 +10,9 @@ Building practical AI-powered applications, intelligent RAG systems, and modern 
   <a href="https://github.com/SOHALIYAJAY">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="www.linkedin.com/in/jay-sohaliya">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="https://www.linkedin.com/in/jay-sohaliya/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+ </a>
   <a href="mailto:jaysohaliya5726@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -31,6 +31,7 @@ I'm a Computer Engineering student passionate about **Artificial Intelligence, M
 - 🔎 Interested in research-paper analysis, document intelligence, and knowledge retrieval.
 - ⚙️ Learning backend architecture, API development, databases, and deployment.
 - 🌱 Continuously learning, experimenting, and contributing to open source.
+- 🤖 Moving to Agentic AI.
 
 
 ## 🚀 Featured Projects
